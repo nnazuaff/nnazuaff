@@ -1,4 +1,4 @@
-# Hi gusy
+# Hi 
 💻I’m currently learning Laravel<br>🏫Future Software Engineer | Vocational High School Student<br>🏢I was looking for a j*b
 
 
