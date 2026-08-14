@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi, I'm Fauzan 👋
 💻 Now focusing on learning Laravel<br>
 🏫 Future Software Engineer | Vocational High School Student<br>
 🏢 I am looking for a job
@@ -25,3 +25,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=nnazuaff&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nnazuaff&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nnazuaff&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake.svg">
+</picture>
