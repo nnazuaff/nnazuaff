@@ -1,35 +1,29 @@
-# Hi, I'm Fauzan 👋
-💻 Now focusing on learning Laravel<br>
-🏫 Future Software Engineer | Vocational High School Student<br>
-🏢 I am looking for a job
+<p align="center">
+  <img src="./assets/landscape.svg" width="100%" alt="Welcome to Fauzan's GitHub — midnight-blue mountains and a winding river." />
+</p>
 
-### 💻 Tech Stack
+<h3 align="center">About me</h3>
 
-**Languages**<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+I'm Fauzan, a vocational high school student working on web projects and learning Laravel along the way. I enjoy connecting the interface, backend, and database into something useful.
 
-**Frontend**<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+Currently focused on **Laravel**. Open to job opportunities.
 
-**Backend**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<h3 align="center">Technologies</h3>
 
-**Database**<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Server & Deployment**<br>
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api?username=nnazuaff&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nnazuaff&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nnazuaff&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nnazuaff/nnazuaff/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-17466B?style=for-the-badge&amp;logo=html5&amp;logoColor=BCE3F5" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-17466B?style=for-the-badge&amp;logo=css&amp;logoColor=BCE3F5" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-17466B?style=for-the-badge&amp;logo=javascript&amp;logoColor=BCE3F5" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-17466B?style=for-the-badge&amp;logo=typescript&amp;logoColor=BCE3F5" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-17466B?style=for-the-badge&amp;logo=php&amp;logoColor=BCE3F5" />
+  <img alt="React" src="https://img.shields.io/badge/React-17466B?style=for-the-badge&amp;logo=react&amp;logoColor=BCE3F5" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-17466B?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=BCE3F5" />
+  <img alt="Livewire" src="https://img.shields.io/badge/Livewire-17466B?style=for-the-badge&amp;logo=livewire&amp;logoColor=BCE3F5" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-17466B?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=BCE3F5" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-17466B?style=for-the-badge&amp;logo=laravel&amp;logoColor=BCE3F5" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-17466B?style=for-the-badge&amp;logo=mysql&amp;logoColor=BCE3F5" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-17466B?style=for-the-badge&amp;logo=sqlite&amp;logoColor=BCE3F5" />
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-17466B?style=for-the-badge&amp;logo=apache&amp;logoColor=BCE3F5" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-17466B?style=for-the-badge&amp;logo=nginx&amp;logoColor=BCE3F5" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-17466B?style=for-the-badge&amp;logo=vercel&amp;logoColor=BCE3F5" />
+</p>
